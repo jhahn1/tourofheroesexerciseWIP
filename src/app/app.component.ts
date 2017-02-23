@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 
+//PROGRESS POINT SELECTING A HERO
 const HEROES: Hero[] = [
   { id: 11, name: 'Mr. Nice' },
   { id: 12, name: 'Narco' },
